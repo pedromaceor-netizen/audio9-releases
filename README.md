@@ -8,7 +8,7 @@ Official installers for **A9 Sender**, the [Audio9](https://audio9.app) desktop 
 
 | Sistema / System | Fichero / File |
 |---|---|
-| macOS 13+ (Apple Silicon e Intel) | `A9-Sender-<versión>-macOS.pkg` (instalador firmado y notarizado por Apple) o `.zip` |
+| macOS 14+ (Apple Silicon: M1 o posterior) | `A9-Sender-<versión>-macOS.pkg` (instalador firmado y notarizado por Apple) o `.zip` |
 | Linux Mint 21/22 · Ubuntu 22.04+ (x86_64) | `a9-sender_<versión>_amd64.deb` |
 
 Guía / guide: https://audio9.app/tutorial-sender.html
